@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T19:31Z",
+ "generated": "2026-11-09T19:32Z",
  "tags": [
   "analysis",
   "architecture",
@@ -584,7 +584,7 @@
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/3abc3dc039bcf853a911e1e3cf14ef515fa4571b/plugins/3D_Eddys/ed3d_find_replace.py",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/7c8c78341e548e93ec298bf6b479047fce46649f/plugins/3D_Eddys/ed3d_find_replace.py",
    "sha256": "e9362b46b88ccb38cc687dc7e21e3c149a94ca37c43fa048be39c8af014c576d",
    "ingetrazo": "0.5.11",
    "tags": [
@@ -605,7 +605,7 @@
    "reviewed": false,
    "added_at": "2026-11-08T12:36Z",
    "updated_at": "2026-11-08T12:36Z",
-   "screenshot_sha": "c2b02ba457f7849a",
+   "screenshot_sha": "bd26f1a5d2c660d6",
    "thumb": "find_replace.webp"
   },
   {
