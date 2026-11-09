@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T13:32Z",
+ "generated": "2026-11-09T19:31Z",
  "tags": [
   "analysis",
   "architecture",
@@ -553,7 +553,7 @@
    "author_url": "https://github.com/eddy-99",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/eddy-99/eddys-3d-plugins-ingetrazo",
-   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/2dbe5bef8c9214fcf4b8b4e2cf532de77b9d2a93/plugins/3D_Eddys/ed3d_centre_finder.py",
+   "download": "https://raw.githubusercontent.com/eddy-99/eddys-3d-plugins-ingetrazo/7c8c78341e548e93ec298bf6b479047fce46649f/plugins/3D_Eddys/ed3d_centre_finder.py",
    "sha256": "1bb57622dc54117df9a0f5e5e1e8d8a855cca0216ee2fb063cef3c39f36b448a",
    "ingetrazo": "0.5.11",
    "tags": [
@@ -574,7 +574,7 @@
    "reviewed": false,
    "added_at": "2026-11-01T17:48Z",
    "updated_at": "2026-11-01T17:48Z",
-   "screenshot_sha": "a9a779e853508bd7",
+   "screenshot_sha": "cbfac86dec65b8f5",
    "thumb": "centre_finder.webp"
   },
   {
