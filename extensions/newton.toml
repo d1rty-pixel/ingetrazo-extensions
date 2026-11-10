@@ -1,5 +1,5 @@
 id = "newton"
-version = "0.15.0"
+version = "0.16.0"
 author = "Tristan Cebulla"
 author_url = "https://github.com/d1rty-pixel"
 
@@ -7,8 +7,8 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/d1rty-pixel/ingetrazo-newton"
 
-download = "https://github.com/d1rty-pixel/ingetrazo-newton/releases/download/v0.15.0/newton-0.15.0.zip"
-sha256 = "6700926d1748b301ba4496159b8f96bec8a5b6edf010532f09c772d14e398e8e"
+download = "https://github.com/d1rty-pixel/ingetrazo-newton/releases/download/v0.16.0/newton-0.16.0.zip"
+sha256 = "e5c4ce59243d90ae4b29d8f76f7ce60b113f53cabf45cc8acf9eadac61fb4262"
 
 ingetrazo = "0.6.0"
 
