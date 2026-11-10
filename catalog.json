@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-11-09T19:38Z",
+ "generated": "2026-11-10T12:37Z",
  "tags": [
   "analysis",
   "architecture",
@@ -2620,7 +2620,7 @@
    "reviewed": false,
    "added_at": "2026-11-08T15:13Z",
    "updated_at": "2026-11-08T15:13Z",
-   "screenshot_sha": "0aea143dc3b0c384",
+   "screenshot_sha": "acc5bce760bbbfb9",
    "thumb": "myhouse.webp"
   },
   {
