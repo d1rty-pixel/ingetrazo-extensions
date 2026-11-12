@@ -23,9 +23,9 @@ en = "Dynamic Components"
 pt = "Componentes dinâmicos"
 
 [summary]
-es = "Componentes con atributos y fórmulas al estilo de SketchUp: tamaño, posición, visibilidad y repetición de las piezas, con agujeros y ranuras reales. Se comparten en el .igz."
-en = "SketchUp-style dynamic components: attributes and formulas drive the size, position, visibility and repetition of a component's parts, with real holes and grooves. Shared in the .igz."
-pt = "Componentes dinâmicos ao estilo do SketchUp: atributos e fórmulas controlam tamanho, posição, visibilidade e repetição das peças, com furos e rasgos reais. Compartilhados no .igz."
+es = "Componentes con atributos y fórmulas que controlan el tamaño, posición, visibilidad y repetición de las piezas, con agujeros y ranuras reales. Se comparten en el .igz."
+en = "Dynamic components: attributes and formulas drive the size, position, visibility and repetition of a component's parts, with real holes and grooves. Shared in the .igz."
+pt = "Componentes dinâmicos: atributos e fórmulas controlam tamanho, posição, visibilidade e repetição das peças, com furos e rasgos reais. Compartilhados no .igz."
 
 [description]
 en = "Gives a component attributes and formulas (=IF(…), Parent!LenX, COPY) that lay out its parts: scale a cabinet and it recounts its shelves, set a spacing and a fence adds its posts. The options appear in a panel; every change is one undo step. Generated boards get real round holes, pockets and grooves from cutter parts, so holes stay round and keep their spacing when the component grows. The definition is saved in the .igz and travels with the component when it is copied into another document. Formulas run in an interpreter of their own; a document never runs code. Includes an example model: a cabinet with System 32 hole rows. German, Spanish and French."
