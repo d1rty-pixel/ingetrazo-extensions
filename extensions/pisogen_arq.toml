@@ -1,5 +1,5 @@
 id = "pisogen_arq"
-version = "2026.1.0"
+version = "2026.1.1"
 author = "Alfonso Rodríguez"
 author_url = "https://github.com/ark-rdz"
 
@@ -7,8 +7,8 @@ license = "GPL-3.0-or-later"
 
 repository = "https://github.com/ark-rdz/pisogen-arq-ingetrazo"
 
-download = "https://raw.githubusercontent.com/ark-rdz/pisogen-arq-ingetrazo/23138a0c8fe6d70abae48f5b7fd01f1b48554072/descarga/pisogen_arq-2026.1.0.zip"
-sha256 = "cfe4b244136b37b3f5a1002a55105f4e3e0e2934a2dc865405f75d572f9f379d"
+download = "https://raw.githubusercontent.com/ark-rdz/pisogen-arq-ingetrazo/087b183e3b924807a1c0d29817840c6160312be4/descarga/pisogen_arq-2026.1.1.zip"
+sha256 = "e7105eb2c553d182a67f063a6102c501d57dac1088996650aae132a84897975e"
 
 ingetrazo = "0.5.11"
 
